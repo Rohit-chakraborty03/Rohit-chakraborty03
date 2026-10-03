@@ -4,11 +4,11 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://leetcode.com/u/Rohit_Chakravorty/">
-        <img src="https://leetcard.jacoblin.cool/Rohit_Chakravorty?theme=dark&font=Rajdhani&border=0" alt="LeetCode Stats" />
-      </a>
-    </td>
+   <p align="center">
+  <a href="https://leetcode.com/u/Rohit_Chakravorty/">
+    <img src="https://leetcard.jacoblin.cool/Rohit_Chakravorty?ext=heatmap&theme=dark&font=Rajdhani&border=0" alt="LeetCode Heatmap" />
+  </a>
+</p>
     <td align="center">
       <img src="https://img.shields.io/badge/Easy_Beats-63.45%25-6FBF4B?style=for-the-badge&labelColor=1a1a1a" alt="Easy beats" /><br/><br/>
       <img src="https://img.shields.io/badge/Medium_Beats-65.97%25-F7B500?style=for-the-badge&labelColor=1a1a1a" alt="Medium beats" /><br/><br/>
@@ -16,12 +16,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Rohit_Chakravorty/">
-    <img src="https://leetcard.jacoblin.cool/Rohit_Chakravorty?ext=heatmap&theme=dark&font=Rajdhani&border=0" alt="LeetCode Heatmap" />
-  </a>
-</p>
 
 <h2 align="center">GITHUB STATS</h2>
 
