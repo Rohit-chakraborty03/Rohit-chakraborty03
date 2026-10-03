@@ -17,6 +17,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Rohit_Chakravorty/">
+    <img src="https://leetcard.jacoblin.cool/Rohit_Chakravorty?ext=heatmap&theme=dark&font=Rajdhani&border=0" alt="LeetCode Heatmap" />
+  </a>
+</p>
+
 <h2 align="center">GITHUB STATS</h2>
 
 <p align="center">
