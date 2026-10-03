@@ -21,6 +21,8 @@
 
 
 
+<h2 align="center">MISSIONS COMPLETED</h2>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
