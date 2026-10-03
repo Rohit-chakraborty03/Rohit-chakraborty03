@@ -19,18 +19,7 @@
   </tr>
 </table>
 
-<h2 align="center">GITHUB STATS</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-chakraborty03&layout=compact&hide_border=true&bg_color=000000&title_color=6FBF4B&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-chakraborty03&hide_border=true&background=000000&ring=6FBF4B&fire=F7B500&currStreakLabel=6FBF4B&sideLabels=F7B500&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-chakraborty03&bg_color=000000&color=6FBF4B&line=6FBF4B&point=F7B500&area=true&hide_border=true" />
-</p>
-
-<h2 align="center">MISSIONS COMPLETED</h2>
 
 <table align="center">
   <tr>
