@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=32&duration=3000&pause=1200&color=6FBF4B&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hello%2C+I+am+Rohit+Chakravorty;Playing+GTA+V+and+pretending+to+learn+DSA;2nd+Year+CSE+Student" alt="Hello, I am Rohit Chakravorty - 2nd Year CSE Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=30&duration=3000&pause=1200&color=6FBF4B&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I%27m+Rohit.+I+debug+code%2C+steal+cars+and+kill+people+%28VIRTUALLY%21%21%21%29;Playing+GTA+V+and+pretending+to+learn+DSA;2nd+Year+CSE+Student" alt="Hi, I'm Rohit - 2nd Year CSE Student" />
 </h1>
 
 <table align="center">
