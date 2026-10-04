@@ -9,17 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-chakraborty03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=6FBF4B&text_color=FFFFFF&icon_color=F7B500" alt="GitHub stats" />
 </p>
     </td>
-    <td align="center">
-   <p LeetCode align="center">
-  <a href="https://leetcode.com/u/Rohit_Chakravorty/">
-    <img src="https://leetcard.jacoblin.cool/Rohit_Chakravorty?ext=heatmap&theme=dark&font=Rajdhani&border=0" alt="LeetCode Heatmap" />
-  </a>
+    <td>
+      <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-chakraborty03&hide_border=true&background=000000&ring=6FBF4B&fire=F7B500&currStreakLabel=6FBF4B&sideLabels=F7B500&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub streak" />
 </p>
-       </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Easy_Beats-63.45%25-6FBF4B?style=for-the-badge&labelColor=1a1a1a" alt="Easy beats" /><br/><br/>
-      <img src="https://img.shields.io/badge/Medium_Beats-65.97%25-F7B500?style=for-the-badge&labelColor=1a1a1a" alt="Medium beats" /><br/><br/>
-      <img src="https://img.shields.io/badge/Hard_Beats-00%25-E5484D?style=for-the-badge&labelColor=1a1a1a" alt="Hard beats" />
     </td>
   </tr>
 </table>
