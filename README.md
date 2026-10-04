@@ -19,9 +19,21 @@
   </tr>
 </table>
 
-<p align="center">
+<table>
+  <tr>
+    <td>
+      <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohit-chakraborty03&label=Profile+Views&color=6FBF4B&labelColor=000000&style=for-the-badge" alt="Profile views" />
+</p>
+    </td>
+    <td>
+      <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohit-chakraborty03&theme=radical&utcOffset=5" alt="Productive time" />
 </p>
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center">MISSIONS COMPLETED</h2>
 
