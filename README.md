@@ -20,7 +20,7 @@
 </table>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/6FBF4B/Rohit-chakraborty03" alt="GitHub contribution calendar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohit-chakraborty03&theme=radical&utcOffset=5" alt="Productive time" />
 </p>
 
 <h2 align="center">MISSIONS COMPLETED</h2>
