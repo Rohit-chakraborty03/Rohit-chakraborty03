@@ -19,7 +19,9 @@
   </tr>
 </table>
 
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/6FBF4B/Rohit-chakraborty03" alt="GitHub contribution calendar" />
+</p>
 
 <h2 align="center">MISSIONS COMPLETED</h2>
 
