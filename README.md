@@ -21,7 +21,6 @@
 
 <table>
   <tr>
-   
     <td>
       <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohit-chakraborty03&theme=radical&utcOffset=5" alt="Productive time" />
