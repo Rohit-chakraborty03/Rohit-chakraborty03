@@ -5,12 +5,12 @@
 <table align="center">
   <tr>
     <td>
-      <p align="center">
+      <p GitHub align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-chakraborty03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=6FBF4B&text_color=FFFFFF&icon_color=F7B500" alt="GitHub stats" />
 </p>
     </td>
     <td align="center">
-   <p align="center">
+   <p LeetCode align="center">
   <a href="https://leetcode.com/u/Rohit_Chakravorty/">
     <img src="https://leetcard.jacoblin.cool/Rohit_Chakravorty?ext=heatmap&theme=dark&font=Rajdhani&border=0" alt="LeetCode Heatmap" />
   </a>
