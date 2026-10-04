@@ -27,6 +27,11 @@
 </p>
     </td>
     <td>
+      <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-chakraborty03&theme=radical" alt="Most commit language" />
+</p>
+    </td>
+    <td>
       <h2 align="center">CONTACT</h2>
 
 <p align="center">
@@ -67,6 +72,4 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-chakraborty03&theme=radical" alt="Most commit language" />
-</p>
+
