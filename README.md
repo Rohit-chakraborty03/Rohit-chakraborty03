@@ -68,5 +68,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6FBF4B&height=140&section=footer&text=THANKS%20FOR%20STOPPING%20BY%2C%20HOMIE&fontSize=28&fontColor=F7B500&fontAlignY=65&animation=blinking" alt="Thanks for stopping by, homie" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-chakraborty03&theme=radical" alt="Most commit language" />
 </p>
