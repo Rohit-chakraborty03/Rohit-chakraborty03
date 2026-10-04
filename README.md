@@ -72,9 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=26&duration=3000&pause=1500&color=F7B500&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Thanks+for+stopping+by%2C+homie" alt="Thanks for stopping by, homie" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6FBF4B&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6FBF4B&height=140&section=footer&text=THANKS%20FOR%20STOPPING%20BY%2C%20HOMIE&fontSize=28&fontColor=F7B500&fontAlignY=65&animation=blinking" alt="Thanks for stopping by, homie" />
 </p>
