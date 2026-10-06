@@ -10,8 +10,8 @@
 </p>
     </td>
     <td>
-      <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-chakraborty03&hide_border=true&background=000000&ring=6FBF4B&fire=F7B500&currStreakLabel=6FBF4B&sideLabels=F7B500&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub streak" />
+     <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rohit-chakraborty03&hide_border=true&background=000000&ring=6FBF4B&fire=F7B500&currStreakLabel=6FBF4B&sideLabels=F7B500&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&timezone=Asia/Kolkata" alt="GitHub streak" />
 </p>
     </td>
   </tr>
