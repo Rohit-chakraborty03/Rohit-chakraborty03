@@ -35,7 +35,6 @@
   <a href="https://www.linkedin.com/in/rohit-chakravorty-8b947438b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6FBF4B" alt="LinkedIn" /></a>
   <a href="https://x.com/Rohitchakr27069"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=F7B500" alt="Twitter" /></a>
   <a href="mailto:rohitchakrabortyjsr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6FBF4B" alt="Email" /></a>
-  <a href="https://leetcode.com/u/Rohit_Chakravorty/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=F7B500" alt="LeetCode" /></a>
 </p>
     </td>
   </tr>
